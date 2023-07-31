@@ -1,0 +1,1 @@
+open the exe and paste ur webhook.
